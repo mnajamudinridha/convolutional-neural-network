@@ -1,0 +1,192 @@
+Loaded all libraries
+Loaded all config
+Loaded model from disk
+./output/hijab/img0001-0.999594.jpg
+./output/hijab/img0002-0001.jpg
+./output/hijab/img0003-0001.jpg
+./output/hijab/img0004-0.958431.jpg
+./output/hijab/img0005-0001.jpg
+./output/hijab/img0006-0001.jpg
+./output/hijab/img0007-0.999373.jpg
+./output/hijab/img0008-0001.jpg
+./output/non hijab/img0009-0001.jpg
+./output/hijab/img0010-0001.jpg
+./output/hijab/img0011-0001.jpg
+./output/non hijab/img0012-0001.jpg
+./output/non hijab/img0013-0001.jpg
+./output/hijab/img0014-0001.jpg
+./output/hijab/img0015-0001.jpg
+./output/hijab/img0016-0001.jpg
+./output/hijab/img0017-0001.jpg
+./output/hijab/img0018-0001.jpg
+./output/hijab/img0019-0001.jpg
+./output/hijab/img0020-0001.jpg
+./output/hijab/img0021-0.996115.jpg
+./output/hijab/img0022-0001.jpg
+./output/non hijab/img0023-0001.jpg
+./output/hijab/img0024-0.996986.jpg
+./output/non hijab/img0025-0001.jpg
+./output/non hijab/img0026-0001.jpg
+./output/hijab/img0027-0001.jpg
+./output/hijab/img0028-0.999994.jpg
+./output/hijab/img0029-0001.jpg
+./output/non hijab/img0030-0.994067.jpg
+./output/hijab/img0031-0001.jpg
+./output/non hijab/img0032-0001.jpg
+./output/hijab/img0033-0001.jpg
+./output/hijab/img0034-0.999927.jpg
+./output/hijab/img0035-0001.jpg
+./output/hijab/img0036-0001.jpg
+./output/hijab/img0037-0001.jpg
+./output/hijab/img0038-0001.jpg
+./output/non hijab/img0039-0001.jpg
+./output/non hijab/img0040-0001.jpg
+./output/hijab/img0041-0001.jpg
+./output/non hijab/img0042-0001.jpg
+./output/hijab/img0043-0001.jpg
+./output/non hijab/img0044-0001.jpg
+./output/non hijab/img0045-0001.jpg
+./output/hijab/img0046-0001.jpg
+./output/hijab/img0047-0.999987.jpg
+./output/hijab/img0048-0.935707.jpg
+./output/non hijab/img0049-0001.jpg
+./output/hijab/img0050-0001.jpg
+./output/hijab/img0051-0001.jpg
+./output/hijab/img0052-0001.jpg
+./output/non hijab/img0053-0001.jpg
+./output/hijab/img0054-0001.jpg
+./output/non hijab/img0055-0001.jpg
+./output/hijab/img0056-0.997567.jpg
+./output/non hijab/img0057-0001.jpg
+./output/hijab/img0058-0001.jpg
+./output/hijab/img0059-0001.jpg
+./output/hijab/img0060-0001.jpg
+./output/hijab/img0061-0.999973.jpg
+./output/non hijab/img0062-0001.jpg
+./output/non hijab/img0063-0001.jpg
+./output/hijab/img0064-0.996659.jpg
+./output/hijab/img0065-0.798087.jpg
+./output/hijab/img0066-0.540263.jpg
+./output/hijab/img0067-0001.jpg
+./output/hijab/img0068-0001.jpg
+./output/hijab/img0069-0001.jpg
+./output/hijab/img0070-0.999942.jpg
+./output/hijab/img0071-0001.jpg
+./output/hijab/img0072-0001.jpg
+./output/non hijab/img0073-0001.jpg
+./output/hijab/img0074-0001.jpg
+./output/hijab/img0075-0001.jpg
+./output/hijab/img0076-0.999999.jpg
+./output/hijab/img0077-0001.jpg
+./output/hijab/img0078-0001.jpg
+./output/hijab/img0079-0001.jpg
+./output/non hijab/img0080-0001.jpg
+./output/hijab/img0081-0001.jpg
+./output/hijab/img0082-0001.jpg
+./output/hijab/img0083-0001.jpg
+./output/hijab/img0084-0001.jpg
+./output/non hijab/img0085-0001.jpg
+./output/non hijab/img0086-0.961251.jpg
+./output/non hijab/img0087-0001.jpg
+./output/hijab/img0088-0.999968.jpg
+./output/non hijab/img0089-0001.jpg
+./output/hijab/img0090-0001.jpg
+./output/hijab/img0091-0001.jpg
+./output/hijab/img0092-0001.jpg
+./output/hijab/img0093-0.999977.jpg
+./output/hijab/img0094-0001.jpg
+./output/hijab/img0095-0.999945.jpg
+./output/non hijab/img0096-0001.jpg
+./output/non hijab/img0097-0.520511.jpg
+./output/non hijab/img0098-0001.jpg
+./output/hijab/img0099-0001.jpg
+./output/hijab/img0100-0001.jpg
+./output/non hijab/img0101-0.999925.jpg
+./output/hijab/img0102-0001.jpg
+./output/hijab/img0103-0001.jpg
+./output/hijab/img0104-0.979953.jpg
+./output/hijab/img0105-0001.jpg
+./output/hijab/img0106-0.999831.jpg
+./output/hijab/img0107-0001.jpg
+./output/hijab/img0108-0001.jpg
+./output/hijab/img0109-0001.jpg
+./output/non hijab/img0110-0.993052.jpg
+./output/hijab/img0111-0001.jpg
+./output/hijab/img0112-0001.jpg
+./output/hijab/img0113-0001.jpg
+./output/hijab/img0114-0001.jpg
+./output/hijab/img0115-0001.jpg
+./output/non hijab/img0116-0001.jpg
+./output/non hijab/img0117-0001.jpg
+./output/hijab/img0118-0001.jpg
+./output/hijab/img0119-0001.jpg
+./output/hijab/img0120-0001.jpg
+./output/hijab/img0121-0001.jpg
+./output/non hijab/img0122-0001.jpg
+./output/hijab/img0123-0.999997.jpg
+./output/hijab/img0124-0001.jpg
+./output/hijab/img0125-0.999648.jpg
+./output/hijab/img0126-0.999562.jpg
+./output/hijab/img0127-0001.jpg
+./output/hijab/img0128-0001.jpg
+./output/hijab/img0129-0001.jpg
+./output/non hijab/img0130-0001.jpg
+./output/hijab/img0131-0.999998.jpg
+./output/non hijab/img0132-0001.jpg
+./output/hijab/img0133-0.999941.jpg
+./output/non hijab/img0134-0001.jpg
+./output/hijab/img0135-0001.jpg
+./output/non hijab/img0136-0.864549.jpg
+./output/hijab/img0137-0.996586.jpg
+./output/hijab/img0138-0001.jpg
+./output/non hijab/img0139-0.999931.jpg
+./output/hijab/img0140-0.997296.jpg
+./output/hijab/img0141-0001.jpg
+./output/non hijab/img0142-0001.jpg
+./output/hijab/img0143-0.999992.jpg
+./output/hijab/img0144-0001.jpg
+./output/non hijab/img0145-0001.jpg
+./output/hijab/img0146-0.999964.jpg
+./output/hijab/img0147-0001.jpg
+./output/non hijab/img0148-0001.jpg
+./output/hijab/img0149-0001.jpg
+./output/hijab/img0150-0.963332.jpg
+./output/hijab/img0151-0001.jpg
+./output/non hijab/img0152-0.618984.jpg
+./output/hijab/img0153-0001.jpg
+./output/hijab/img0154-0001.jpg
+./output/non hijab/img0155-0.998891.jpg
+./output/hijab/img0156-0001.jpg
+./output/non hijab/img0157-0001.jpg
+./output/hijab/img0158-0001.jpg
+./output/non hijab/img0159-0001.jpg
+./output/hijab/img0160-0001.jpg
+./output/non hijab/img0161-0001.jpg
+./output/hijab/img0162-0001.jpg
+./output/non hijab/img0163-0001.jpg
+./output/non hijab/img0164-0001.jpg
+./output/hijab/img0165-0001.jpg
+./output/non hijab/img0166-0001.jpg
+./output/hijab/img0167-0001.jpg
+./output/hijab/img0168-0001.jpg
+./output/hijab/img0169-0001.jpg
+./output/hijab/img0170-0.990308.jpg
+./output/hijab/img0171-0001.jpg
+./output/hijab/img0172-0001.jpg
+./output/non hijab/img0173-0001.jpg
+./output/hijab/img0174-0.994876.jpg
+./output/hijab/img0175-0001.jpg
+./output/hijab/img0176-0001.jpg
+./output/hijab/img0177-0.999969.jpg
+./output/hijab/img0178-0001.jpg
+./output/hijab/img0179-0001.jpg
+./output/hijab/img0180-0001.jpg
+./output/non hijab/img0181-0001.jpg
+./output/hijab/img0182-0.999978.jpg
+./output/hijab/img0183-0.999982.jpg
+./output/hijab/img0184-0001.jpg
+./output/hijab/img0185-0.999884.jpg
+./output/hijab/img0186-0001.jpg
+./output/hijab/img0187-0001.jpg
+./output/hijab/img0188-0001.jpg
+PROSES SELESAI !!!

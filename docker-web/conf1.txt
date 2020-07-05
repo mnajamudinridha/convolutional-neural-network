@@ -1,0 +1,4 @@
+<?php return array (
+  'setting_1' => 'bar',
+  'setting_2' => 'baz',
+) ;

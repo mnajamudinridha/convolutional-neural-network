@@ -1,0 +1,18 @@
+# syntax=docker/dockerfile:experimental
+FROM python:3.5-slim-stretch
+
+WORKDIR /usr/src/app
+COPY python-library.txt ./
+#RUN --mount=type=cache,target=/root/.cache/pip pip install -r python-library.txt
+RUN pip3 install --no-cache-dir -r python-library.txt
+COPY . .
+
+CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--NotebookApp.token=''", "--NotebookApp.password=''","--allow-root"]
+
+
+
+# COMMAND BUILD 
+# which docker
+# export COMPOSE_DOCKER_CLI_BUILD=1
+# export DOCKER_BUILDKIT=1
+# COMPOSE_DOCKER_CLI_BUILD=1 docker-compose build jupyter

@@ -1,0 +1,66 @@
+version: '3'
+
+services:
+    mysql:
+      image: mysql:5.6.40
+      restart: always
+      environment:
+        MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT}"
+      ports:
+        - "3306:3306"
+      volumes:
+        - ./docker-mysql/:/var/lib/mysql/
+    php:
+      build:
+        context: ./docker-php
+        dockerfile: Dockerfile
+      depends_on:
+        - mysql
+      ports:
+        - "6006:6006"
+      volumes:
+        - ./docker-web:/usr/share/nginx/html/
+        - ./docker-php:/usr/src/app/
+        - .env:/usr/share/nginx/.env
+      stdin_open: true
+      tty: true
+    jupyter:
+      build:
+        context: ./docker-php
+        dockerfile: DockerJupyter
+      depends_on:
+        - mysql
+      volumes:
+        - ./docker-web:/usr/share/nginx/html/
+        - ./docker-php:/usr/src/app/
+        - .env:/usr/share/nginx/.env
+      ports:
+        - 8084:8888
+    phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      depends_on:
+        - mysql
+      links:
+        - mysql:db
+      environment:
+        - PHP_UPLOAD_MAX_FILESIZE=100MB
+      restart: always
+      ports:
+        - 8082:80
+    composer:
+      restart: 'no'
+      image: composer:1.9.3
+      command: composer install --ignore-platform-reqs
+      volumes:
+        - ./docker-web:/app
+    nginx:
+      image: nginx:1.18.0-alpine
+      ports:
+        - "8080:80"
+      volumes:
+        - ./docker-web:/usr/share/nginx/html/
+        - ./docker-php:/usr/src/app/
+        - ./docker-nginx/conf/:/etc/nginx/conf.d/
+        - ./docker-nginx/logs:/var/log/nginx/
+      links:
+        - php

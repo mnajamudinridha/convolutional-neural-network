@@ -1,0 +1,4 @@
+[config-model]
+model = model-5000-batch-300-epoch-100
+tensorboard = tensorboard-5000-acak-batch-100-epoch-100
+
