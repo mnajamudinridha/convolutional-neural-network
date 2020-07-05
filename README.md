@@ -2,8 +2,8 @@
 repositori ini adalah repositori project deteksi wanita berhijab atau tidak dengan deep learning convolutional neural network, untuk memudahkan project ini dibuat dengan dockerized
 
 ## Required
-install docker => version 19 keatas
-install docker-compose  => version  1.20 keatas
+- install docker => version 19 keatas
+- install docker-compose  => version  1.20 keatas
 
 ## Installation
 - git clone https://github.com/najcardboyz/convolutional-neural-network.git
